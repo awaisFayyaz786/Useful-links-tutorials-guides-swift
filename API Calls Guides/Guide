@@ -1,0 +1,2 @@
+When working on API calls, Make sure to add a Key value pair in Your info.plist file. Please see the link for details
+https://stackoverflow.com/questions/31254725/transport-security-has-blocked-a-cleartext-http
