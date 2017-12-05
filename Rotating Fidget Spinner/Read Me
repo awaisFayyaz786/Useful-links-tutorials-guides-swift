@@ -1,0 +1,9 @@
+Read Me
+
+Just include SwiftGif.swift file in your project. 
+Drag and drop the gifRed.gif file into your project
+Use an image view in story board and make an outlet e.g myImageView, then call
+
+
+myImageView.loadGif(name: "gifRed")
+
