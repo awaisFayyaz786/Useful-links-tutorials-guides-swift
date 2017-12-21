@@ -1,0 +1,23 @@
+Swift class structure (Mark)
+
+//MARK:- Outlets
+@IBOutlet weak war label!
+
+//MARK:- Properties
+let name : String
+
+//MARK:- private functions
+private func doSomething() {
+	
+}
+//MARK:- helper functions
+private func dimBack(){
+	
+}
+//MARK:- User interaction and IBActions
+@IBaction func buttonTapped() {
+	
+}
+
+//MARK:- Extensions
+
